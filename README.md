@@ -1,5 +1,3 @@
-## 🚩
-
 Offensive Security Engineer  <br>eWPTX Certified<br><br>I simulate how systems break -<br> Not just how they’re built.<br><hr><br>
 
 [+] Offensive Security
